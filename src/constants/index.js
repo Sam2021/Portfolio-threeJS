@@ -208,7 +208,7 @@ const projects = [
       },
     ],
     image: airbnb,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/Sam2021/airbnb-clone-react",
   },
   {
     name: "Disney+ Clone",
@@ -229,7 +229,7 @@ const projects = [
       },
     ],
     image: disney,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/Sam2021/disenyclone",
   },
   {
     name: "Voice Control News",
@@ -250,7 +250,7 @@ const projects = [
       },
     ],
     image: voice,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/Sam2021/voice-control-news",
   },
   {
     name: "Covid-19 tracker",
@@ -268,7 +268,7 @@ const projects = [
       
     ],
     image: covid,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/Sam2021/covid19-tracker-react",
   },
 ];
 

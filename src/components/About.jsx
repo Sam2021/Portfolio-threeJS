@@ -68,18 +68,22 @@ const About = () => {
         Please find linkdin and Github link below
         <br/>
         <br/>
+        <div
+          className=' cursor-pointer'
+        >
         <p className="social-container">
         <a
-          href="https://www.linkedin.com/in/smit-parikh-b7684a168/"
+          onClick={() => window.open("https://www.linkedin.com/in/smit-parikh-b7684a168/", "_blank")}
           className="instagram social"
         >
           <FontAwesomeIcon icon={faLinkedin} size="2x" />
         </a>
         &nbsp;&nbsp;&nbsp;&nbsp;
-        <a href="https://github.com/Sam2021" className="twitter social">
+        <a  onClick={() => window.open("https://github.com/Sam2021", "_blank")}className="twitter social">
           <FontAwesomeIcon icon={faGithub} size="2x" />
         </a>
       </p>
+      </div>
       </motion.p>
 
       <div className='mt-20 flex flex-wrap gap-10'>
