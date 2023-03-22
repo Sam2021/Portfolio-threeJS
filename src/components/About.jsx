@@ -73,13 +73,13 @@ const About = () => {
         >
         <p className="social-container">
         <a
-          onClick={() => window.open("https://www.linkedin.com/in/smit-parikh-b7684a168/", "_blank")}
-          className="instagram social"
+          onClick={() => window.open("https://www.linkedin.com", "_blank")}
+          className="linkdin social"
         >
           <FontAwesomeIcon icon={faLinkedin} size="2x" />
         </a>
         &nbsp;&nbsp;&nbsp;&nbsp;
-        <a  onClick={() => window.open("https://github.com/Sam2021", "_blank")}className="twitter social">
+        <a  onClick={() => window.open("https://github.com", "_blank")}className="github social">
           <FontAwesomeIcon icon={faGithub} size="2x" />
         </a>
       </p>
