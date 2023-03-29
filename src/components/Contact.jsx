@@ -23,6 +23,13 @@ const Contact = () => {
       >
         <p className={styles.sectionSubText}>Contact Feature coming soon........</p>
         <h3 className={styles.sectionHeadText}>Contact.</h3>
+        <br/>
+        <br/>
+        <br/>
+        <br/>
+        <br/>
+        <br/>
+        <br/>
 
         
       </motion.div>
