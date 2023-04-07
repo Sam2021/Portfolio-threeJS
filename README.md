@@ -1,5 +1,6 @@
 # Personal portfolio using Three.js and React.js
-![Portfolio](https://i.ibb.co/9ykhLtM/Thumbnail.png)
+#  <a href="https://smit-parikh.netlify.app/" target="_blank" rel="noreferrer"> Live Site </a>
+![Portfolio](https://github.com/Sam2021/Smit_Parikh_Portfolio/blob/main/portfolio.png?raw=true)
 
 ## Introduction
 The most impressive websites in the world useing 3D graphics and animations to bring their content to life.
