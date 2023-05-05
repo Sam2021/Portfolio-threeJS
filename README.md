@@ -1,5 +1,5 @@
 # Personal portfolio using Three.js and React.js
-
+#  <a href="https://smit-parikh.netlify.app/" target="_blank" rel="noreferrer"> Live Site </a>
 ![Portfolio](https://github.com/Sam2021/Smit_Parikh_Portfolio/blob/main/portfolio.png?raw=true)
 
 ## Introduction
